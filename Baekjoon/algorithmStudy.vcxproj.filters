@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\백준">
+      <UniqueIdentifier>{07e21556-3c3f-4015-8f6d-0206306d522a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\180804">
+      <UniqueIdentifier>{4f75ec86-5bdf-4b4a-9b70-3dbe342be79c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\180811">
+      <UniqueIdentifier>{3c651c54-065d-453f-bac8-5644dee51561}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\180901">
+      <UniqueIdentifier>{9fa70298-42a7-466c-8c83-6f6d7bc92ad3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\180906">
+      <UniqueIdentifier>{5a591006-8088-40c3-9de2-dc543ce15c09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\180913">
+      <UniqueIdentifier>{ec88cfbc-d3a2-471b-b469-1ed666b81084}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\180920">
+      <UniqueIdentifier>{84f9cfc1-539f-48d6-8258-48cb5aee7d9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\180927">
+      <UniqueIdentifier>{0f448e56-dcb9-462d-aa39-11f10d6b4e79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\181101">
+      <UniqueIdentifier>{94e6de3f-532c-48ee-ad20-405051cd171f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\190106">
+      <UniqueIdentifier>{05e3e524-792f-4454-9944-25592e15f033}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\190110">
+      <UniqueIdentifier>{571adc3f-7f10-4ebf-bec1-ed7e61d0452e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\190117">
+      <UniqueIdentifier>{fd52e2f6-6052-47a9-920c-b1601021377d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\190124">
+      <UniqueIdentifier>{dfff8211-2050-4799-85ce-914efc9ca456}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\190203">
+      <UniqueIdentifier>{864156ac-2582-44a1-8775-5f5992ad0710}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\190214">
+      <UniqueIdentifier>{3011ef39-dd11-4b34-9d98-88d419232cec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\190221">
+      <UniqueIdentifier>{cb7f7167-2a53-49ec-ac84-b501f16c47be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\190228">
+      <UniqueIdentifier>{366b91ab-e946-4bf3-819e-19da3f08d88a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\190317">
+      <UniqueIdentifier>{7e1f5b5c-982c-4757-a5b0-dea9e889a842}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1669_strokingDog.cpp">
+      <Filter>소스 파일\백준\180804</Filter>
+    </ClCompile>
+    <ClCompile Include="1695_palindrome.cpp">
+      <Filter>소스 파일\백준\180804</Filter>
+    </ClCompile>
+    <ClCompile Include="2583_getRegion.cpp">
+      <Filter>소스 파일\백준\180804</Filter>
+    </ClCompile>
+    <ClCompile Include="11404_floyd.cpp">
+      <Filter>소스 파일\백준\180804</Filter>
+    </ClCompile>
+    <ClCompile Include="1182_sumOfSubset.cpp">
+      <Filter>소스 파일\백준\180804</Filter>
+    </ClCompile>
+    <ClCompile Include="1389_6stepRuleOfKevinBacon.cpp">
+      <Filter>소스 파일\백준\180811</Filter>
+    </ClCompile>
+    <ClCompile Include="1420_Don%27tGoToSchool.cpp">
+      <Filter>소스 파일\백준\180811</Filter>
+    </ClCompile>
+    <ClCompile Include="1507_curiousMinho.cpp">
+      <Filter>소스 파일\백준\180811</Filter>
+    </ClCompile>
+    <ClCompile Include="2573_iceburg.cpp">
+      <Filter>소스 파일\백준\180811</Filter>
+    </ClCompile>
+    <ClCompile Include="1412_oneWay.cpp">
+      <Filter>소스 파일\백준\180811</Filter>
+    </ClCompile>
+    <ClCompile Include="2661_goodSequence.cpp">
+      <Filter>소스 파일\백준\180901</Filter>
+    </ClCompile>
+    <ClCompile Include="1759_makingPassword.cpp">
+      <Filter>소스 파일\백준\180901</Filter>
+    </ClCompile>
+    <ClCompile Include="3109_bakery.cpp">
+      <Filter>소스 파일\백준\180901</Filter>
+    </ClCompile>
+    <ClCompile Include="famous7Princess.cpp">
+      <Filter>소스 파일\백준\180901</Filter>
+    </ClCompile>
+    <ClCompile Include="15683_watch.cpp">
+      <Filter>소스 파일\백준\180901</Filter>
+    </ClCompile>
+    <ClCompile Include="2193_binaryChinNumber.cpp">
+      <Filter>소스 파일\백준\180906</Filter>
+    </ClCompile>
+    <ClCompile Include="11048_moving.cpp">
+      <Filter>소스 파일\백준\180906</Filter>
+    </ClCompile>
+    <ClCompile Include="2533_SNS.cpp">
+      <Filter>소스 파일\백준\180906</Filter>
+    </ClCompile>
+    <ClCompile Include="2631_lineUp.cpp">
+      <Filter>소스 파일\백준\180804</Filter>
+    </ClCompile>
+    <ClCompile Include="11054_LBitonicS.cpp">
+      <Filter>소스 파일\백준\180906</Filter>
+    </ClCompile>
+    <ClCompile Include="1932_intTriangle.cpp">
+      <Filter>소스 파일\백준\180906</Filter>
+    </ClCompile>
+    <ClCompile Include="14003_LIS5.cpp">
+      <Filter>소스 파일\백준\180906</Filter>
+    </ClCompile>
+    <ClCompile Include="11722_LDS.cpp">
+      <Filter>소스 파일\백준\180906</Filter>
+    </ClCompile>
+    <ClCompile Include="6359_drunkenSangbeom.cpp">
+      <Filter>소스 파일\백준\180913</Filter>
+    </ClCompile>
+    <ClCompile Include="9184_funnyCallingFunction.cpp">
+      <Filter>소스 파일\백준\180913</Filter>
+    </ClCompile>
+    <ClCompile Include="11057_upload.cpp">
+      <Filter>소스 파일\백준\180913</Filter>
+    </ClCompile>
+    <ClCompile Include="1309_zoo.cpp">
+      <Filter>소스 파일\백준\180913</Filter>
+    </ClCompile>
+    <ClCompile Include="11727_2bynTyling.cpp">
+      <Filter>소스 파일\백준\180913</Filter>
+    </ClCompile>
+    <ClCompile Include="13565_percolate.cpp">
+      <Filter>소스 파일\백준\180920</Filter>
+    </ClCompile>
+    <ClCompile Include="1197_MST.cpp">
+      <Filter>소스 파일\백준\180920</Filter>
+    </ClCompile>
+    <ClCompile Include="1562_stairNumber.cpp">
+      <Filter>소스 파일\백준\180920</Filter>
+    </ClCompile>
+    <ClCompile Include="10448_eurekaTheorem.cpp">
+      <Filter>소스 파일\백준\180927</Filter>
+    </ClCompile>
+    <ClCompile Include="5557_firstGrade.cpp">
+      <Filter>소스 파일\백준\180927</Filter>
+    </ClCompile>
+    <ClCompile Include="bigNumA+B.cpp">
+      <Filter>소스 파일\백준\180927</Filter>
+    </ClCompile>
+    <ClCompile Include="13560_soccorGame.cpp">
+      <Filter>소스 파일\백준\180927</Filter>
+    </ClCompile>
+    <ClCompile Include="11082_soToBun.cpp">
+      <Filter>소스 파일\백준\180927</Filter>
+    </ClCompile>
+    <ClCompile Include="11085_movingArmy.cpp">
+      <Filter>소스 파일\백준\180927</Filter>
+    </ClCompile>
+    <ClCompile Include="9465_sticker.cpp">
+      <Filter>소스 파일\백준\181101</Filter>
+    </ClCompile>
+    <ClCompile Include="1912_continuousSum.cpp">
+      <Filter>소스 파일\백준\181101</Filter>
+    </ClCompile>
+    <ClCompile Include="15953_rewardHunter.cpp">
+      <Filter>소스 파일\백준\181101</Filter>
+    </ClCompile>
+    <ClCompile Include="1065_hanNumber.cpp">
+      <Filter>소스 파일\백준\181101</Filter>
+    </ClCompile>
+    <ClCompile Include="1514_lock.cpp">
+      <Filter>소스 파일\백준\181101</Filter>
+    </ClCompile>
+    <ClCompile Include="temp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1149_RGBstreet.cpp">
+      <Filter>소스 파일\백준\190106</Filter>
+    </ClCompile>
+    <ClCompile Include="2644_촌수계산.cpp">
+      <Filter>소스 파일\백준\190106</Filter>
+    </ClCompile>
+    <ClCompile Include="1514_자물쇠.cpp">
+      <Filter>소스 파일\백준\190106</Filter>
+    </ClCompile>
+    <ClCompile Include="1849_순열.cpp">
+      <Filter>소스 파일\백준\190110</Filter>
+    </ClCompile>
+    <ClCompile Include="11066_파일합치기.cpp">
+      <Filter>소스 파일\백준\190110</Filter>
+    </ClCompile>
+    <ClCompile Include="2583_영역 구하기.cpp">
+      <Filter>소스 파일\백준\190117</Filter>
+    </ClCompile>
+    <ClCompile Include="14501_퇴사.cpp">
+      <Filter>소스 파일\백준\190117</Filter>
+    </ClCompile>
+    <ClCompile Include="2660_회장 뽑기.cpp">
+      <Filter>소스 파일\백준\190117</Filter>
+    </ClCompile>
+    <ClCompile Include="6118_숨바꼭질.cpp">
+      <Filter>소스 파일\백준\190117</Filter>
+    </ClCompile>
+    <ClCompile Include="15685_드래곤 커브.cpp">
+      <Filter>소스 파일\백준\190117</Filter>
+    </ClCompile>
+    <ClCompile Include="6603_로또.cpp">
+      <Filter>소스 파일\백준\190124</Filter>
+    </ClCompile>
+    <ClCompile Include="1463_1로 만들기.cpp">
+      <Filter>소스 파일\백준\190124</Filter>
+    </ClCompile>
+    <ClCompile Include="2309_일곱 난쟁이.cpp">
+      <Filter>소스 파일\백준\190124</Filter>
+    </ClCompile>
+    <ClCompile Include="1987_알파벳.cpp">
+      <Filter>소스 파일\백준\190124</Filter>
+    </ClCompile>
+    <ClCompile Include="2580_스도쿠.cpp">
+      <Filter>소스 파일\백준\190124</Filter>
+    </ClCompile>
+    <ClCompile Include="1010_다리 놓기.cpp">
+      <Filter>소스 파일\백준\190203</Filter>
+    </ClCompile>
+    <ClCompile Include="1058_친구.cpp">
+      <Filter>소스 파일\백준\190203</Filter>
+    </ClCompile>
+    <ClCompile Include="10026_적록색약.cpp">
+      <Filter>소스 파일\백준\190203</Filter>
+    </ClCompile>
+    <ClCompile Include="1520_내리막길.cpp">
+      <Filter>소스 파일\백준\190203</Filter>
+    </ClCompile>
+    <ClCompile Include="2156_포도주 시식.cpp">
+      <Filter>소스 파일\백준\190203</Filter>
+    </ClCompile>
+    <ClCompile Include="3020_개똥벌레.cpp">
+      <Filter>소스 파일\백준\190214</Filter>
+    </ClCompile>
+    <ClCompile Include="1946_신입사원.cpp">
+      <Filter>소스 파일\백준\190214</Filter>
+    </ClCompile>
+    <ClCompile Include="10815_숫자 카드.cpp">
+      <Filter>소스 파일\백준\190214</Filter>
+    </ClCompile>
+    <ClCompile Include="1668_트로피 진열.cpp">
+      <Filter>소스 파일\백준\190214</Filter>
+    </ClCompile>
+    <ClCompile Include="11403_경로 찾기.cpp">
+      <Filter>소스 파일\백준\190214</Filter>
+    </ClCompile>
+    <ClCompile Include="1965_상자 넣기.cpp">
+      <Filter>소스 파일\백준\190221</Filter>
+    </ClCompile>
+    <ClCompile Include="2096_내려가기.cpp">
+      <Filter>소스 파일\백준\190221</Filter>
+    </ClCompile>
+    <ClCompile Include="2869_달팽이는 올라가고 싶다.cpp">
+      <Filter>소스 파일\백준\190221</Filter>
+    </ClCompile>
+    <ClCompile Include="2178_미로 탐색.cpp">
+      <Filter>소스 파일\백준\190221</Filter>
+    </ClCompile>
+    <ClCompile Include="14502_연구소.cpp">
+      <Filter>소스 파일\백준\190221</Filter>
+    </ClCompile>
+    <ClCompile Include="2667_단지번호붙이기.cpp">
+      <Filter>소스 파일\백준\190228</Filter>
+    </ClCompile>
+    <ClCompile Include="1016_제곱ㄴㄴ수.cpp">
+      <Filter>소스 파일\백준\190228</Filter>
+    </ClCompile>
+    <ClCompile Include="1812_사탕.cpp">
+      <Filter>소스 파일\백준\190228</Filter>
+    </ClCompile>
+    <ClCompile Include="5573_산책.cpp">
+      <Filter>소스 파일\백준\190228</Filter>
+    </ClCompile>
+    <ClCompile Include="2870_수학 숙제.cpp">
+      <Filter>소스 파일\백준\190228</Filter>
+    </ClCompile>
+    <ClCompile Include="12015_LIS2.cpp">
+      <Filter>소스 파일\백준\190317</Filter>
+    </ClCompile>
+    <ClCompile Include="1697_숨바꼭질.cpp">
+      <Filter>소스 파일\백준\190317</Filter>
+    </ClCompile>
+    <ClCompile Include="14888_연산자 끼워넣기.cpp">
+      <Filter>소스 파일\백준\190317</Filter>
+    </ClCompile>
+    <ClCompile Include="1699_제곱수의 합.cpp">
+      <Filter>소스 파일\백준\190317</Filter>
+    </ClCompile>
+    <ClCompile Include="13458_시험 감독.cpp">
+      <Filter>소스 파일\백준\190317</Filter>
+    </ClCompile>
+    <ClCompile Include="11399_ATM.cpp">
+      <Filter>소스 파일\백준\190317</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
