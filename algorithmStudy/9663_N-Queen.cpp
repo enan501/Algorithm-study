@@ -17,6 +17,7 @@ void func(int col)
 }
 int main(void)
 {
+
 	cin >> n;
 	func(0);
 	cout << ans;
