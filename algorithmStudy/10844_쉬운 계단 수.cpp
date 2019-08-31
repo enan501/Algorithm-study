@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int ans, n, dp[10][101];
+//dp[num][i] = i번째 숫자가 num일 때 앞으로 만들 수 있는 계단수의 갯수
 int func(int num, int i) {
 	if (i == n-1) return 1;
 	if (dp[num][i]) return dp[num][i];
