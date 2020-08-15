@@ -1,9 +1,24 @@
-﻿# Algorithm-study
+# Algorithm-study
 알고리즘 문제를 많이많이 풀자
 
-푼 문제 목록
+푼 문제 목록  
+### 카카오  
+<details markdown="1">
+<summary>접기/펼치기</summary>
 
-백준
+#### Programmers level 1  
+
+다트게임  
+비밀지도  
+실패율  
+크레인 인형뽑기 게임  
+키패드누르기  
+
+</details>
+
+### 백준  
+<details markdown="1">
+<summary>접기/펼치기</summary>
 
 11404 플로이드  
 2583 영역 구하기  
@@ -109,5 +124,8 @@
 7562 나이트의 이동  
 9205 맥주 마시면서 걸어가기  
 2667 단지번호붙이기  
+
+</details>
+
 
 
