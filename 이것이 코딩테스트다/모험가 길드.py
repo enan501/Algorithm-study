@@ -1,9 +1,10 @@
-answer, i = 0, 0
+answer, count = 0, 0
 n = int(input())
 fears = list(map(int, input().split()))
 fears.sort()
-while i < n:
-    if i + fears[i] < n:
-        i += (fears[i])
-    answer += 1
+for fear in fears:
+    count += 1
+    if count > fear:
+        answer += 1
+        count = 0
 print(answer)
