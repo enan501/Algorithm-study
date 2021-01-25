@@ -27,7 +27,3 @@ else:
 if answer == k+2:
     answer = 0
 print(answer)
-
-# 멈춤 조건 1 - s초 지남
-# 멈춤 조건 2 - s초 전에 바이러스를 만남
-
